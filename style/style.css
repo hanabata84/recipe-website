@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F0DCBD;
+    color: #08172F;
+}
+
+a{
+    text-decoration: none;
+}
+
+#header-top {
+    height: 5vh;
+    background-color: #e09252;
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+}
+
+#header-main {
+    text-align: center;
+    height: 25vh;
+}
+
+#nav-main li {
+    list-style: none;
+}
+
+#hero-image {
+    height: 70vh;
+    background-image: url(../recipes/img/header-recipe.jfif);
+    background-repeat: no-repeat;
+    background-size: 120% 300%;
+    background-position: 50% 34%;
+}
